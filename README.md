@@ -9,3 +9,4 @@ Example:
 
 ## Installation
 
+mix escript.build
